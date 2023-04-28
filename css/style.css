@@ -4,18 +4,6 @@
 .logo01{
     height: 230px;
 }
-.logo02{
-    height: 230px;
-}
-.logo03{
-    height: 230px;
-}
-.logo04{
-    height: 230px;
-}
-.logo05{
-    height: 230px;
-}
 .logo06{
     height: 115px;
 }
@@ -32,7 +20,7 @@
     height: 150px;
 }
 .conteudo{
-    height: 954px;
+    height: 487px;
 }
 .conteudo01{
     height: 462px;
@@ -46,6 +34,9 @@
 .rodape01{
     height: 132px;
 }
-.rodape02{
-    height: 132px;
+.texto{
+    height: 30px;
+}
+.mapa{
+    height: 400px;
 }
